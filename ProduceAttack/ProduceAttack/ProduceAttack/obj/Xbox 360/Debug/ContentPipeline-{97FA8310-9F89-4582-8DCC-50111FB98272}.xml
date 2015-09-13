@@ -1,0 +1,232 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Music\Credits.mp3</Source>
+      <Name>Music\Credits</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\bauer\documents\visual studio 2010\Projects\ProduceAttack\ProduceAttack\ProduceAttack\bin\Xbox 360\Debug\Content\Music\Credits.xnb</Output>
+      <Extra>c:\users\bauer\documents\visual studio 2010\Projects\ProduceAttack\ProduceAttack\ProduceAttack\bin\Xbox 360\Debug\Content\Music\Credits.wma</Extra>
+      <Time>2013-02-24T05:28:10.0063451-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Music\Desert1.mp3</Source>
+      <Name>Music\Desert1</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\bauer\documents\visual studio 2010\Projects\ProduceAttack\ProduceAttack\ProduceAttack\bin\Xbox 360\Debug\Content\Music\Desert1.xnb</Output>
+      <Extra>c:\users\bauer\documents\visual studio 2010\Projects\ProduceAttack\ProduceAttack\ProduceAttack\bin\Xbox 360\Debug\Content\Music\Desert1.wma</Extra>
+      <Time>2013-02-24T05:28:10.0703488-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Music\Desert2.mp3</Source>
+      <Name>Music\Desert2</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\bauer\documents\visual studio 2010\Projects\ProduceAttack\ProduceAttack\ProduceAttack\bin\Xbox 360\Debug\Content\Music\Desert2.xnb</Output>
+      <Extra>c:\users\bauer\documents\visual studio 2010\Projects\ProduceAttack\ProduceAttack\ProduceAttack\bin\Xbox 360\Debug\Content\Music\Desert2.wma</Extra>
+      <Time>2013-02-24T05:28:10.1453531-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Music\Factory1.mp3</Source>
+      <Name>Music\Factory1</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\bauer\documents\visual studio 2010\Projects\ProduceAttack\ProduceAttack\ProduceAttack\bin\Xbox 360\Debug\Content\Music\Factory1.xnb</Output>
+      <Extra>c:\users\bauer\documents\visual studio 2010\Projects\ProduceAttack\ProduceAttack\ProduceAttack\bin\Xbox 360\Debug\Content\Music\Factory1.wma</Extra>
+      <Time>2013-02-24T05:28:10.3493647-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Music\Factory2.mp3</Source>
+      <Name>Music\Factory2</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\bauer\documents\visual studio 2010\Projects\ProduceAttack\ProduceAttack\ProduceAttack\bin\Xbox 360\Debug\Content\Music\Factory2.xnb</Output>
+      <Extra>c:\users\bauer\documents\visual studio 2010\Projects\ProduceAttack\ProduceAttack\ProduceAttack\bin\Xbox 360\Debug\Content\Music\Factory2.wma</Extra>
+      <Time>2013-02-24T05:28:10.4683715-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Music\FinalBoss1.mp3</Source>
+      <Name>Music\FinalBoss1</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\bauer\documents\visual studio 2010\Projects\ProduceAttack\ProduceAttack\ProduceAttack\bin\Xbox 360\Debug\Content\Music\FinalBoss1.xnb</Output>
+      <Extra>c:\users\bauer\documents\visual studio 2010\Projects\ProduceAttack\ProduceAttack\ProduceAttack\bin\Xbox 360\Debug\Content\Music\FinalBoss1.wma</Extra>
+      <Time>2013-02-24T05:28:10.6173801-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Music\Forest1.mp3</Source>
+      <Name>Music\Forest1</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\bauer\documents\visual studio 2010\Projects\ProduceAttack\ProduceAttack\ProduceAttack\bin\Xbox 360\Debug\Content\Music\Forest1.xnb</Output>
+      <Extra>c:\users\bauer\documents\visual studio 2010\Projects\ProduceAttack\ProduceAttack\ProduceAttack\bin\Xbox 360\Debug\Content\Music\Forest1.wma</Extra>
+      <Time>2013-02-24T05:28:10.7973904-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Music\Forest2.mp3</Source>
+      <Name>Music\Forest2</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\bauer\documents\visual studio 2010\Projects\ProduceAttack\ProduceAttack\ProduceAttack\bin\Xbox 360\Debug\Content\Music\Forest2.xnb</Output>
+      <Extra>c:\users\bauer\documents\visual studio 2010\Projects\ProduceAttack\ProduceAttack\ProduceAttack\bin\Xbox 360\Debug\Content\Music\Forest2.wma</Extra>
+      <Time>2013-02-24T05:28:10.9453988-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Music\Grass1.mp3</Source>
+      <Name>Music\Grass1</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\bauer\documents\visual studio 2010\Projects\ProduceAttack\ProduceAttack\ProduceAttack\bin\Xbox 360\Debug\Content\Music\Grass1.xnb</Output>
+      <Extra>c:\users\bauer\documents\visual studio 2010\Projects\ProduceAttack\ProduceAttack\ProduceAttack\bin\Xbox 360\Debug\Content\Music\Grass1.wma</Extra>
+      <Time>2013-02-24T05:28:11.0824067-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Music\Grass2.mp3</Source>
+      <Name>Music\Grass2</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\bauer\documents\visual studio 2010\Projects\ProduceAttack\ProduceAttack\ProduceAttack\bin\Xbox 360\Debug\Content\Music\Grass2.xnb</Output>
+      <Extra>c:\users\bauer\documents\visual studio 2010\Projects\ProduceAttack\ProduceAttack\ProduceAttack\bin\Xbox 360\Debug\Content\Music\Grass2.wma</Extra>
+      <Time>2013-02-24T05:28:11.2224147-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Music\Snow1.mp3</Source>
+      <Name>Music\Snow1</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\bauer\documents\visual studio 2010\Projects\ProduceAttack\ProduceAttack\ProduceAttack\bin\Xbox 360\Debug\Content\Music\Snow1.xnb</Output>
+      <Extra>c:\users\bauer\documents\visual studio 2010\Projects\ProduceAttack\ProduceAttack\ProduceAttack\bin\Xbox 360\Debug\Content\Music\Snow1.wma</Extra>
+      <Time>2013-02-24T05:28:11.5214318-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Music\Snow2.mp3</Source>
+      <Name>Music\Snow2</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\bauer\documents\visual studio 2010\Projects\ProduceAttack\ProduceAttack\ProduceAttack\bin\Xbox 360\Debug\Content\Music\Snow2.xnb</Output>
+      <Extra>c:\users\bauer\documents\visual studio 2010\Projects\ProduceAttack\ProduceAttack\ProduceAttack\bin\Xbox 360\Debug\Content\Music\Snow2.wma</Extra>
+      <Time>2013-02-24T05:28:12.0394614-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Music\Title.mp3</Source>
+      <Name>Music\Title</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\bauer\documents\visual studio 2010\Projects\ProduceAttack\ProduceAttack\ProduceAttack\bin\Xbox 360\Debug\Content\Music\Title.xnb</Output>
+      <Extra>c:\users\bauer\documents\visual studio 2010\Projects\ProduceAttack\ProduceAttack\ProduceAttack\bin\Xbox 360\Debug\Content\Music\Title.wma</Extra>
+      <Time>2013-02-24T05:28:12.2824753-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Music\Training.mp3</Source>
+      <Name>Music\Training</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\bauer\documents\visual studio 2010\Projects\ProduceAttack\ProduceAttack\ProduceAttack\bin\Xbox 360\Debug\Content\Music\Training.xnb</Output>
+      <Extra>c:\users\bauer\documents\visual studio 2010\Projects\ProduceAttack\ProduceAttack\ProduceAttack\bin\Xbox 360\Debug\Content\Music\Training.wma</Extra>
+      <Time>2013-02-24T05:28:12.3774807-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\Tiza14.spritefont</Source>
+      <Name>Fonts\Tiza14</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\bauer\documents\visual studio 2010\Projects\ProduceAttack\ProduceAttack\ProduceAttack\bin\Xbox 360\Debug\Content\Fonts\Tiza14.xnb</Output>
+      <Time>2013-02-26T15:40:18.2929617-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\Tiza24.spritefont</Source>
+      <Name>Fonts\Tiza24</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\bauer\documents\visual studio 2010\Projects\ProduceAttack\ProduceAttack\ProduceAttack\bin\Xbox 360\Debug\Content\Fonts\Tiza24.xnb</Output>
+      <Time>2013-02-26T15:40:35.2819335-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\Tiza36.spritefont</Source>
+      <Name>Fonts\Tiza36</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\bauer\documents\visual studio 2010\Projects\ProduceAttack\ProduceAttack\ProduceAttack\bin\Xbox 360\Debug\Content\Fonts\Tiza36.xnb</Output>
+      <Time>2013-02-26T15:40:52.0038899-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\BuxtonSketch24.spritefont</Source>
+      <Name>Fonts\BuxtonSketch24</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\bauer\documents\visual studio 2010\Projects\ProduceAttack\ProduceAttack\ProduceAttack\bin\Xbox 360\Debug\Content\Fonts\BuxtonSketch24.xnb</Output>
+      <Time>2013-02-26T15:17:39.7462573-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\pixel.png</Source>
+      <Name>Textures\pixel</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\bauer\documents\visual studio 2010\Projects\ProduceAttack\ProduceAttack\ProduceAttack\bin\Xbox 360\Debug\Content\Textures\pixel.xnb</Output>
+      <Time>2013-02-26T15:28:11.0303647-07:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{97FA8310-9F89-4582-8DCC-50111FB98272}</ContentProjectGUID>
+      <TargetPlatform>Xbox360</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>true</CompressContent>
+      <RootDirectory>c:\users\bauer\documents\visual studio 2010\Projects\ProduceAttack\ProduceAttack\ProduceAttackContent\</RootDirectory>
+      <LoggerRootDirectory>c:\users\bauer\documents\visual studio 2010\Projects\ProduceAttack\ProduceAttack\ProduceAttack\</LoggerRootDirectory>
+      <IntermediateDirectory>c:\users\bauer\documents\visual studio 2010\Projects\ProduceAttack\ProduceAttack\ProduceAttack\obj\Xbox 360\Debug\</IntermediateDirectory>
+      <OutputDirectory>c:\users\bauer\documents\visual studio 2010\Projects\ProduceAttack\ProduceAttack\ProduceAttack\bin\Xbox 360\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-06:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-06:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-06:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-06:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-06:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-06:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2012-04-03T17:15:53.325359-06:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
